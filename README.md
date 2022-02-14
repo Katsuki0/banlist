@@ -1,0 +1,2 @@
+# banlist
+ban those pricks
